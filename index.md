@@ -1,5 +1,5 @@
-
-&nbsp; Pawtucket Brewery <br/>
+&nbsp; Southern New Hampshire University <br/>
+&nbsp; Biology <br/>
 &nbsp; &nbsp; email: julieannasherwood@gmail.com<br/>
 &nbsp; &nbsp; [Resume]
 
