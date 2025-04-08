@@ -1,7 +1,8 @@
-&nbsp; Southern New Hampshire University <br/>
-&nbsp; Biology <br/>
+&nbsp; Julieanna Sherwood <br/>
+&nbsp; Southern New Hampshire University 2025 <br/>
+&nbsp; Bachlors in Biology <br/>
 &nbsp; &nbsp; email: julieannasherwood@gmail.com<br/>
-&nbsp; &nbsp; [Resume]
+
 
 <br/>
 <br/>
@@ -10,8 +11,13 @@
 
 ### Welcome
 
-Welcome to my page – a man of many talents, few inhibitions, and a boundless sense of humor! From crafting toys at the Happy-Go-Lucky Toy Factory to ensuring the quality of Quahog’s favorite brews at Pawtucket Brewery, I’ve built a career out of hard work, good laughs, and the occasional chicken fight. When I’m not on the job, you can find me spending time with my family, hosting impromptu karaoke nights, or dreaming up my next big idea. Grab a snack and stay a while – you never know what adventures we might embark on together!
+I am a biology major at Southern New Hampshire University working towards getting my bachelor’s degree in December of 2025. I currently work at NHSportsDome where I help operate an indoor soccer field for people to play various sports such as soccer, baseball, softball, lacrosse, hurling etc.... I also work at Southern New Hampshires University commuter lounge where I help to create a space that is welcoming to all students at the University and planning events.
+
+During my time at Southern New Hampshire University I have worked on projects such as the chytrid fungus project where we catch frogs to test them for the fungus. I have also worked with the office of sustainability to make the campus a more ecofriendly environment. 
+
 
 ### Sample Work Products
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+You can view the Palmer penguin data set analysis here. This anlysis is my introduction to R using Rstudio to create a data analysis from a penguin data set.
+
+You can veiw my bee colonly anlysis here. In this analysis I looked at and compared the number of bee colonies lost to the time of year they were lost.
