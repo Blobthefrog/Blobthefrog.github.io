@@ -20,4 +20,4 @@ During my time at Southern New Hampshire University I have worked on projects su
 
 You can view the Palmer penguin data set analysis [here](https://Blobthefrog.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html) This anlysis is my introduction to R using Rstudio to create a data analysis from a penguin data set.
 
-You can veiw my bee colonly anlysis here https://Blobthefrog.github.io/BioStatisticsAnalysis/PathToFile/Beecolonylosses.qmd In this analysis I looked at and compared the number of bee colonies lost to the time of year they were lost.
+You can veiw my bee colonly anlysis [here](https://Blobthefrog.github.io/BioStatisticsAnalysis/Beecolonylosses.html) In this analysis I looked at and compared the number of bee colonies lost to the time of year they were lost.
