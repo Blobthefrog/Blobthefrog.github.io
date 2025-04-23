@@ -22,4 +22,4 @@ You can view the Palmer penguin data set analysis [here](https://Blobthefrog.git
 
 You can veiw my bee colonly anlysis [here](https://Blobthefrog.github.io/BioStatisticsAnalysis/Beecolonylosses.html). In this analysis I looked at and compared the number of bee colonies lost to the time of year they were lost.
 
-You can veiw my RNA sequencing analysis 1 [here](https://Blobthefrog.github.io/Bioinformatics/RNA seq.html) and 2 [here] In this analysis I looked at the RNA sequencing of Drosophila melanogaster 
+You can veiw my RNA sequencing analysis 1 [here](https://Blobthefrog.github.io/Bioinformatics/RNAseq.html) and 2 [here] In this analysis I looked at the RNA sequencing of Drosophila melanogaster 
